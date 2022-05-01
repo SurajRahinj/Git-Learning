@@ -11,3 +11,8 @@ To unstage file from Staging area:-
 		git reset HEAD filename
 			or
 		git restore --staged filename
+
+To push File :-(after commit)
+
+		git push 
+
