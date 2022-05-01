@@ -24,6 +24,8 @@ Switch between the branches :- go to particular branch
 
 	git checkout branchname
 
+To able to push  the branch 
+	git push --set-upstream origin First_branch
 
 
 show the changes pointer or origin
@@ -37,5 +39,6 @@ Merge the another  branch on your current branch
 
 Pull = fetch + merge 
 	git pull 
+
 
 dasg
