@@ -26,4 +26,15 @@ Switch between the branches :- go to particular branch
 
 
 
+show the changes pointer or origin
+	git fetch 
+
+
+Merge the another  branch on your current branch
+	
+	git merge branchname_to_be_merge 
+
+
+Pull = fetch + merge 
+	git pull 
 
