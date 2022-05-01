@@ -16,3 +16,14 @@ To push File :-(after commit)
 
 		git push 
 
+Create new branch :
+
+	git checkout -b branchname
+
+Switch between the branches :- go to particular branch
+
+	git checkout branchname
+
+
+
+
