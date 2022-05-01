@@ -38,3 +38,4 @@ Merge the another  branch on your current branch
 Pull = fetch + merge 
 	git pull 
 
+dasg
